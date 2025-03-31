@@ -1,0 +1,1 @@
+{"metrics/precision(B)": 0.9690912469900285, "metrics/recall(B)": 0.9061032863849765, "metrics/mAP50(B)": 0.9476588809322202, "metrics/mAP50-95(B)": 0.81259314828495, "metrics/precision(P)": 0.18880514703157691, "metrics/recall(P)": 0.1267605633802817, "metrics/mAP50(P)": 0.10975109695270346, "metrics/mAP50-95(P)": 0.02366656403036944, "fitness": 0.8583747388722799}
